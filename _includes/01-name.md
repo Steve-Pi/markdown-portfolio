@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Learning MarkDown
+#### Learning how to use headers
+##### Hi! My name is Steve. :smile:
